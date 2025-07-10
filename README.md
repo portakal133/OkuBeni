@@ -1,6 +1,6 @@
 # OkuBeni
 
-📀Aka hackmek📀
+📀Aka hackmek📀/n
 💿I mostly develop desktop applications and I'm also interested in robotics💿
 🪫Hate c#🪫
 
